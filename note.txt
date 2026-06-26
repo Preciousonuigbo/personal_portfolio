@@ -1,0 +1,25 @@
+Assignment 2 - Personal Portfolio Site
+
+I'm a software developer and you to build a multi section personal Portfolio site.  
+Firstly create a menu bar, my name "precious" as logo and let the menu bar have the following items,   
+- Home
+-About
+-Technical skills
+- project
+- experience
+- contact. add hambuger to nav menu for mobile and tablet. ensure it is responsive and show the html and css sepeately
+
+
+Create a hero section should contain the text "HELLO! I AM ONUIGBO PRECIOUS" as a heading and I'm a web developer with extensive experience for over 6 months. My expertise is to create and design websites and many more. with two button one saying download CV and the other saying view my work. The section should having the wordings by the left and my image by the right in a circle. The hero section should contain 50vh on tablet and should take up the entire screen minus the heading on mobile. it should be responsive.
+
+
+Create a technical skills section should contain the images or icons of the various skills or technology. add the skills and technologies needed for a full stack developer and style beautifully, add a background color, comments on all codes and make responsive.
+
+build the project session showing completed projects as a web developer and each project should have its own card box.  
+Each card box should show a high level summary of what the project set out to solve. it should also show how I went about from design to coding to delivery. Projects completed include Travel-agency website, personal portfolio website, a business consultancy site, an online cake store, mamaput online store and a medical laboratory site. while building ensure to add comments, make responsive and add a background image to this section. Style it professionally and beautifully.
+
+Create a contact section, in the contact section link social media links with their logos, phone number, location, email address and everything needed. In the form make it standard, no labels just the inputs with their placeholders. input for full name, phone number, email and a message area with the submit button. Style this section professionally and beautifully, add comments, make fully responsive and add background color and place the content in a container so it can be fully centered.
+
+create a standard sticky footer with the information you have so far, give it a nice background color that compliments the one before it and add a top arrow that take user to the top when they click on. Make it fully responsive, add comments and style beautifully.
+
+
