@@ -1,5 +1,7 @@
 Assignment 2 - Personal Portfolio Site
 
+
+Prompt 1
 I'm a software developer and you to build a multi section personal Portfolio site.  
 Firstly create a menu bar, my name "precious" as logo and let the menu bar have the following items,   
 - Home
@@ -9,17 +11,40 @@ Firstly create a menu bar, my name "precious" as logo and let the menu bar have 
 - experience
 - contact. add hambuger to nav menu for mobile and tablet. ensure it is responsive and show the html and css sepeately
 
-
+Prompt 2
 Create a hero section should contain the text "HELLO! I AM ONUIGBO PRECIOUS" as a heading and I'm a web developer with extensive experience for over 6 months. My expertise is to create and design websites and many more. with two button one saying download CV and the other saying view my work. The section should having the wordings by the left and my image by the right in a circle. The hero section should contain 50vh on tablet and should take up the entire screen minus the heading on mobile. it should be responsive.
 
+Prompt 3
+Create an about section that contains information you have about me so far with the title "About Me". This section should contain text on the left and my image by the right side on large screen, while on mobile, the text and image should be stacked on each other. All codes should be responsive and comments given appropriately.
 
+Prompt 4
 Create a technical skills section should contain the images or icons of the various skills or technology. add the skills and technologies needed for a full stack developer and style beautifully, add a background color, comments on all codes and make responsive.
 
-build the project session showing completed projects as a web developer and each project should have its own card box.  
+
+Prompt 5
+Create a project session showing completed projects as a web developer and each project should have its own card box.  
 Each card box should show a high level summary of what the project set out to solve. it should also show how I went about from design to coding to delivery. Projects completed include Travel-agency website, personal portfolio website, a business consultancy site, an online cake store, mamaput online store and a medical laboratory site. while building ensure to add comments, make responsive and add a background image to this section. Style it professionally and beautifully.
 
+
+Prompt 6
 Create a contact section, in the contact section link social media links with their logos, phone number, location, email address and everything needed. In the form make it standard, no labels just the inputs with their placeholders. input for full name, phone number, email and a message area with the submit button. Style this section professionally and beautifully, add comments, make fully responsive and add background color and place the content in a container so it can be fully centered.
 
+
+Prompt 7
 create a standard sticky footer with the information you have so far, give it a nice background color that compliments the one before it and add a top arrow that take user to the top when they click on. Make it fully responsive, add comments and style beautifully.
 
 
+
+
+Engineering work done
+1. Added my CV to the download CV button on my hero section
+2. Linked my "view my work" button on my hero section to project section.
+3. Added my image to the hero section
+4. Added my image to my about section
+5. Linked the "Lets work together button" to my contact section
+6. Styled my buttons, projects, skills learnt to have hover effect when hovered on.
+7. In the project section, I added the projects i have built so far and added links to access them.
+8. Added my tel no and mail to link so when clicked, takes an action.
+9. Added my github, linkedin, X and facebook link to my social media icons.
+10. Linked my nav links to corresponding sections.
+11. Added a scroll to top icon
